@@ -1,5 +1,30 @@
 # SuperStore P3
 
+## Overview
+There are millions of applications that have been developed and are in use today. Even more crucial than their ability to create code, a developer's reading and comprehension skills. As a result, I made improvements to an existing ASP.NET Core MVC application that was supplied to me.
+
+I applied architectural patterns to the program to enhance and improve it, while also adhering as closely as I could to the SOLID principles.
+
+### Homepage
+![Screenshot (84)](https://github.com/bafanamahase/CMPG-323-Project-3---29910439/assets/88552699/afa93bc7-22ec-4010-999c-a23c14a585f0)
+
+### Registering Account
+
+![Screenshot (90)](https://github.com/bafanamahase/CMPG-323-Project-3---29910439/assets/88552699/a8b29807-0981-47bb-9995-66929753a07d)
+
+### Loging in
+
+![Screenshot (91)](https://github.com/bafanamahase/CMPG-323-Project-3---29910439/assets/88552699/e958f6c5-e331-4d31-99b3-b118f28a3375)
+
+### Products
+
+![Screenshot (92)](https://github.com/bafanamahase/CMPG-323-Project-3---29910439/assets/88552699/9c2fa364-b166-4281-a966-bded02051602)
+
+
+
+
+
+
 ## Reference
 https://www.cloudbees.com/blog/git-detached-head
 https://www.shecancode.io/blog/how-to-undo-a-commit-in-github
